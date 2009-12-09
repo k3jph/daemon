@@ -24,11 +24,6 @@
  * SUCH DAMAGE.
  */
 
-/*
- *  I saw a similar program on a BSD/OS 3.1 system.  Used it to exploit
- *  local security holes.
- */ 
-
 #include <err.h> 
 #include <stdio.h> 
 #include <stdlib.h> 
