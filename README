@@ -1,0 +1,1 @@
+Daemon detaches from the controlling terminal and runs the given commands.
